@@ -7,7 +7,7 @@
 
     section {
         width: 500px;
-        height: 400px;
+        height: 430px;
     }
 
     h1 {
@@ -30,5 +30,14 @@
     
     #esqueci-senha {
         font-size: 1em;
+    }
+
+    #plogin {
+        width: 350px;
+        transform: translate(63px, 25px);
+    }
+
+    .conta, .conta > a {
+        transform: translateY(25px);
     }
 }
